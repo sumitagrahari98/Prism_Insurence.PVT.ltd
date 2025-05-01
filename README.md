@@ -16,10 +16,4 @@ User -Friendly Interface: The intuitive design of Power BI makes it easy for use
 Predictive Analytics: By leveraging Power BI’s advanced analytics capabilities, we can forecast trends and identify potential risks, allowing us to make proactive decisions.
 Data Modeling: Power BI enables us to create complex data models that help in understanding relationships and patterns within our data.
 
-Getting Started with Power BI
-To get started with Power BI at Prism Insurance, follow these steps:
 
-Access Power BI: Log in to your Power BI account using your company credentials.
-Explore Dashboards: Navigate through the available dashboards to familiarize yourself with the data visualizations.
-Create Reports: Utilize the reporting features to create custom reports based on your specific needs.
-Collaborate: Share your insights with team members and engage in discussions to drive data-driven decisions.
